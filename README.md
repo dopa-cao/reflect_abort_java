@@ -1,2 +1,9 @@
-# reflect_abort_java
-java反射demo
+# java反射相关
+
+1.class基本方法
+
+2.反射基本概念
+
+3.类、成员变量、构造方法等
+
+4.泛型是防止报错的！
